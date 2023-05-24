@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pavan8354
 - 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning WebDriverIO
+- 🌱 I’m currently learning API Automation
 - 📫 How to reach me pavanggowda28@gmail.com
 
 <!---
